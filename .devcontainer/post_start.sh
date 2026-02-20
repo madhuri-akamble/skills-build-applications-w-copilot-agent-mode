@@ -1,4 +1,4 @@
-#!/bin/bash
+python3 -m venv /workspaces/skills-build-applications-w-copilot-agent-mode/octofit-tracker/backend/venv/workspaces/skills-build-applications-w-copilot-agent-mode/octofit-tracker/backend/venv/bin/python -m pip install -r /workspaces/skills-build-applications-w-copilot-agent-mode/octofit-tracker/backend/requirements.txt#!/bin/bash
 # This script is run after the container starts up.
 
 set -euo pipefail
